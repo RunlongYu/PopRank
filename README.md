@@ -1,4 +1,4 @@
-# POP_PopRank
+# PopRank
 Implement PopRank (run POP.py) in Python3.  
 PopRank is a basic algorithm in collaborative filtering, which ranks the items according to their popularity.
 
